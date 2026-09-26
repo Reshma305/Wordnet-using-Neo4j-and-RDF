@@ -1,0 +1,10 @@
+{
+  "description": "Explore Tamil words' usage across literary eras with detailed analytics on frequency, context, sources, and related terms to deepen language insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
